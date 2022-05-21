@@ -1,6 +1,6 @@
 ### INSTRUKCJA KOMPILACJI ###
 
-Przykład prawidłowej kompilacji kompilatorem języka c: $ gcc server.c -o server $ gcc client.c -o client
+Przykład prawidłowej kompilacji: $ gcc server.c -o server $ gcc client.c -o client
 
 
 
@@ -15,6 +15,6 @@ Klienta uruchamiamy podając nazwę użytkownika i hasło(liczbowe lub literowe)
 
 ### OPIS ŹRÓDŁOWYCH PLIKÓW SKŁADOWYCH ###
 
-client.c - program klienta
+client.c - kod klienta
 
-server.c - program serwera
+server.c - kod serwera
